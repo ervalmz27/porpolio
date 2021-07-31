@@ -1,0 +1,6 @@
+{
+    "name": "BE ambyx",
+    "script": "./bin/www",
+    "instances": "1",
+    "watch": ["storage/cache/homepage_cache.json"]
+}

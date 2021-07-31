@@ -1,0 +1,338 @@
+{
+  "content": [
+      {
+        "id":1,
+        "widget_name": "home page banner",
+        "layout_page_section": "home-page",
+        "widget_type": "Banner",
+        "content": [
+          {
+            "id": 1,
+            "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "redirecturl": "https://google.com"
+          },
+          {
+            "id": 2,
+            "image": "https://images.unsplash.com/photo-1621569976126-161164c49cef?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1867&q=80",
+            "redirecturl": "https://detik.com"
+          },
+          {
+            "id": 3,
+            "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+            "redirecturl": "profile-page"
+          }
+        ]
+      },
+      {
+          "id":2,
+          "widget_name": "home page category",
+          "layout_page_section": "home-page",
+          "widget_type": "Category",
+          "content": {
+              "title": "Select Category",
+              "subtitle": "Search listing in your chosen category",
+              "category": [
+                  {
+                    "id": 19,
+                    "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                    "categoryname": "Cooking"
+                  },
+                  {
+                    "id": 2,
+                    "image": "https://images.unsplash.com/photo-1621569976126-161164c49cef?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1867&q=80",
+                    "categoryname": "Education"
+                  },
+                  {
+                    "id": 3,
+                    "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                    "categoryname": "Health"
+                  },
+                  {
+                      "id": 4,
+                      "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                      "categoryname": "Category 4"
+                  },
+                  {
+                      "id": 5,
+                      "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                      "categoryname": "Category 5"
+                  }
+              ],
+              "all_categories": [
+                {
+                  "id": 19,
+                  "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                  "categoryname": "Cooking"
+                },
+                {
+                  "id": 2,
+                  "image": "https://images.unsplash.com/photo-1621569976126-161164c49cef?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1867&q=80",
+                  "categoryname": "Education"
+                },
+                {
+                  "id": 3,
+                  "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                  "categoryname": "Health"
+                },
+                {
+                    "id": 4,
+                    "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                    "categoryname": "Category 4"
+                },
+                {
+                    "id": 5,
+                    "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                    "categoryname": "Category 5"
+                },
+                {
+                  "id": 6,
+                  "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                  "categoryname": "Category 6"
+                },
+                {
+                  "id": 7,
+                  "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                  "categoryname": "Category 7"
+                }
+              ],
+              "numberofcategory": 5
+          }
+      },
+      {
+          "id":3,
+          "widget_name": "home page listing",
+          "layout_page_section": "home-page",
+          "widget_type": "Listing",
+          "content": {
+              "title": "Browse Listing",
+              "subtitle": "Check available content listings",
+              "content_listing": [
+                  {
+                    "id": 129,
+                    "image": "https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/listing/1624451553893755232897.jpeg",
+                    "title_content": "Learn how to make a pizza for beginners",
+                    "rate_per_minute": 10,
+                    "top_rated": true,
+                    "expert_name": "Expert 1",
+                    "avg_rating": 5,
+                    "total_call": 10,
+                    "total_review": 10,
+                    "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                  },
+                  {
+                    "id": 2,
+                    "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                    "title_content": "How to Learn Javascript",
+                    "rate_per_minute": 15,
+                    "top_rated": false,
+                    "expert_name": "Expert 2",
+                    "avg_rating": 4.4,
+                    "total_call": 110,
+                    "total_review": 20,
+                    "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                  },
+                  {
+                    "id": 3,
+                    "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                    "title_content": "Java 101",
+                    "rate_per_minute": 15,
+                    "top_rated": false,
+                    "expert_name": "Expert 2",
+                    "avg_rating": 4.7,
+                    "total_call": 122,
+                    "total_review": 70,
+                    "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                  },
+                  {
+                      "id": 4,
+                      "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                      "title_content": "Rust 101",
+                      "rate_per_minute": 20,
+                      "top_rated": true,
+                      "expert_name": "Expert 3",
+                      "avg_rating": 4.5,
+                      "total_call": 120,
+                      "total_review": 40,
+                      "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                  },
+                  {
+                      "id": 5,
+                      "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                      "title_content": "Python 101",
+                      "rate_per_minute": 10,
+                      "top_rated": false,
+                      "expert_name": "Expert 4",
+                      "avg_rating": 4.5,
+                      "total_call": 100,
+                      "total_review": 50,
+                      "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                  }
+              ],
+              "all_content_listing": [
+                {
+                  "id": 129,
+                  "image": "https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/listing/1624451553893755232897.jpeg",
+                  "title_content": "Learn how to make a pizza for beginners",
+                  "rate_per_minute": 10,
+                  "top_rated": true,
+                  "expert_name": "Expert 1",
+                  "avg_rating": 5,
+                  "total_call": 10,
+                  "total_review": 10,
+                  "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                },
+                {
+                  "id": 2,
+                  "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                  "title_content": "How to Learn Javascript",
+                  "rate_per_minute": 15,
+                  "top_rated": false,
+                  "expert_name": "Expert 2",
+                  "avg_rating": 4.4,
+                  "total_call": 110,
+                  "total_review": 20,
+                  "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                },
+                {
+                  "id": 3,
+                  "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                  "title_content": "Java 101",
+                  "rate_per_minute": 15,
+                  "top_rated": false,
+                  "expert_name": "Expert 2",
+                  "avg_rating": 4.7,
+                  "total_call": 122,
+                  "total_review": 70,
+                  "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                },
+                {
+                    "id": 4,
+                    "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                    "title_content": "Rust 101",
+                    "rate_per_minute": 20,
+                    "top_rated": true,
+                    "expert_name": "Expert 3",
+                    "avg_rating": 4.5,
+                    "total_call": 120,
+                    "total_review": 40,
+                    "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                },
+                {
+                    "id": 5,
+                    "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                    "title_content": "Python 101",
+                    "rate_per_minute": 10,
+                    "top_rated": false,
+                    "expert_name": "Expert 4",
+                    "avg_rating": 4.5,
+                    "total_call": 100,
+                    "total_review": 50,
+                    "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+                },
+                {
+                  "id": 6,
+                  "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                  "title_content": "Flutter 101",
+                  "rate_per_minute": 11,
+                  "top_rated": false,
+                  "expert_name": "Expert 6",
+                  "avg_rating": 4.7,
+                  "total_call": 110,
+                  "total_review": 60,
+                  "image_expert":"https://s3.ap-southeast-1.amazonaws.com/ambyx.staging/profile/1622614805672559034620.jpeg"
+              }
+            ],
+              "numberoflisting": 5
+          }
+      },
+      {
+          "id":4,
+          "widget_name": "home page topic",
+          "layout_page_section": "home-page",
+          "widget_type": "Topic",
+          "content": {
+              "title": "Browse Topics",
+              "subtitle": "Choose a topic and learn something new",
+              "topics": [
+                  {
+                    "id": 20,
+                    "image": "https://images.unsplash.com/photo-1621569976126-161164c49cef?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1867&q=80",
+                    "topic_name": "Baking",
+                    "category_name":"Cooking"
+                  },
+                  {
+                    "id": 2,
+                    "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                    "topic_name": "Topic 2",
+                    "category_name":"Education"
+                  },
+                  {
+                    "id": 3,
+                    "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                    "topic_name": "Topic 3",
+                    "category_name":"Food and beverage"
+                  },
+                  {
+                      "id": 4,
+                      "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                      "topic_name": "Topic 4",
+                      "category_name":"Law"
+                  },
+                  {
+                      "id": 5,
+                      "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                      "topic_name": "Topic 5",
+                      "category_name":"Technology 2"
+                  }
+              ],
+              "all_topics": [
+                {
+                  "id": 20,
+                  "image": "https://images.unsplash.com/photo-1621569976126-161164c49cef?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1867&q=80",
+                  "topic_name": "Baking",
+                  "category_name":"Cooking"
+                },
+                {
+                  "id": 2,
+                  "image": "https://images.unsplash.com/photo-1624562605764-008a25d40e52?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                  "topic_name": "Topic 2",
+                  "category_name":"Education"
+                },
+                {
+                  "id": 3,
+                  "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                  "topic_name": "Topic 3",
+                  "category_name":"Food and beverage"
+                },
+                {
+                    "id": 4,
+                    "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                    "topic_name": "Topic 4",
+                    "category_name":"Law"
+                },
+                {
+                    "id": 5,
+                    "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                    "topic_name": "Topic 5",
+                    "category_name":"Technology 2"
+                },
+                {
+                  "id": 6,
+                  "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                  "topic_name": "Topic 6",
+                  "category_name":"Technology 2"
+                },
+                {
+                  "id": 7,
+                  "image": "https://images.unsplash.com/photo-1624800695004-8c46cd769ccc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2126&q=80",
+                  "topic_name": "Topic 8",
+                  "category_name":"Technology 2"
+                }
+              ],
+              "numberoftopic": 5
+          }
+      }
+  ],
+  "last_update": "2021-06-01 12:00:00",
+  "cache_name": "homepage"
+}
